@@ -1,0 +1,3 @@
+ - 👋 Hi, I’m         
+- 👀 Aprender a  programar
+- 🌱 Começando a aprender no github e scratch
